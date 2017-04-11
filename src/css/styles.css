@@ -1,0 +1,30 @@
+@font-face {
+  font-family: 'Helvetica Neue';
+  src: url(../font/HelveticaNeueLTStd_Lt.otf); }
+@font-face {
+  font-family: 'Helvetica Neue B';
+  src: url(../font/helvetica-neue-bold.ttf); }
+
+#chart_div{
+	display: inline-block;
+}
+
+#chart_div1{
+	display: inline-block;
+}
+
+.main-title{
+	font-family: 'Helvetica Neue B';
+	text-align: center;
+}
+
+.cont-table{
+	width: 60%;
+	margin: auto auto;
+}
+
+.idx-art{
+	font-family: 'Helvetica Neue';
+	width: 80%;
+	margin: auto auto;
+}
